@@ -1,6 +1,8 @@
 //_______________________ ┏  Info  ┓ _______________________\\
 //
 //   Credit : AlipBot
+//   Owner : Ryosuke
+//
 //   
 //   Note 
 //   Jangan Jual SC ini ,
